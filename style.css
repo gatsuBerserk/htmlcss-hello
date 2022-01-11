@@ -1,0 +1,23 @@
+*{
+    font-family: 'Ubuntu', sans-serif; 
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("img/BatmanVsSuperman.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+h1{
+    text-align: center;
+    color: yellowgreen;
+} 
+
+p{
+    text-align: center;
+    color: whitesmoke;
+}
